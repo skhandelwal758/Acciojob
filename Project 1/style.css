@@ -1,0 +1,76 @@
+.Group1{
+    position: absolute;
+    width: 700px;
+    height: 661px;
+    left: 38px;
+    top: 20px;
+
+
+}
+.Rectangle{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1390px;
+    height: 250px;
+    left: 38px;
+    top: 10px;
+    /* right: 50px; */
+
+    border: 2px solid #000000;
+}
+.Beagle{
+    position: absolute;
+    /* width: 1540.51px; */
+    /* height: 613.54px; */
+    left: 20px;
+    right: 20px;
+    top: 5px;
+    
+
+    font-family: 'Inter';
+    font-style: normal;
+    /* font-weight: 700; */
+    font-size: 18px;
+    /* line-height: 77px; */
+    /* text-decoration-line: underline; */
+
+    color: #000000;
+
+}  
+
+.Group2{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 80px;
+    top: 280px;
+
+}
+
+.images{
+    top: 70px;
+    /* left: 100px; */
+}
+.dogpic{
+    /* position: absolute; */
+    width: 100px;
+    height: 220px;
+    left: 38px;
+    top: 87px;
+
+    
+}
+.dog{
+    width: 370px;
+    height: 200px;
+}
+
+.Group3{
+    position: absolute;
+    width: 500px;
+    height: 40px;
+    left: 75px;
+    top: 600px;
+
+}
